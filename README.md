@@ -177,9 +177,4 @@ PySpark / Snowflake     ███████████░░░░░░░�
 > *"I build ML systems that scale, AI pipelines that reason, and software that solves real problems."*
 
 ---
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Srivars12&color=6366f1&style=flat-square&label=Profile+Views)
-
-</div>
+\
