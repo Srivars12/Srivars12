@@ -22,7 +22,7 @@
 ```python
 class SriVarshini:
     def __init__(self):
-        self.role       = "Intern Data Scientist Candidate"
+        self.role       = "Wates GCC Intern"
         self.education  = "Integrated M.Tech – CSE (Data Science) @ VIT Vellore"
         self.gpa        = 8.64
         self.status     = "Final stretch — building, learning, shipping"
