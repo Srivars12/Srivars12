@@ -4,7 +4,7 @@
 
 ### Data Scientist · ML Engineer · AI Builder
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-22c55e?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Waters%20GCC%20Intern-22c55e?style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srivarshinisrm@gmail.com)
 [![Location](https://img.shields.io/badge/Vellore%2C%20Tamil%20Nadu-555?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Vellore)
